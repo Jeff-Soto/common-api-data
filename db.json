@@ -1,18 +1,22 @@
 {
-  "title": "Mock Product 1",
-  "price": 19.99,
-  "description": "Mock Product Description Yada Yada Yada",
-  "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
-},
-{
-  "title": "Mock Product 2",
-  "price": 49.99,
-  "description": "Mock Product Description Yada Yada Yada",
-  "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
-},
-{
-  "title": "Mock Product 3",
-  "price": 99.99,
-  "description": "Mock Product Description Yada Yada Yada",
-  "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
+    "products": [
+      {
+      "title": "Mock Product 1",
+      "price": 19.99,
+      "description": "Mock Product Description Yada Yada Yada",
+      "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
+      },
+      {
+        "title": "Mock Product 2",
+        "price": 49.99,
+        "description": "Mock Product Description Yada Yada Yada",
+        "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
+      },
+      {
+        "title": "Mock Product 3",
+        "price": 99.99,
+        "description": "Mock Product Description Yada Yada Yada",
+        "img": "https://i0.wp.com/costasys.com/wp-content/uploads/2019/05/laptop-repair-mijas-250x250.jpg"
+      }
+    ]
 }
